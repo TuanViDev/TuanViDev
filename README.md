@@ -22,24 +22,24 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Hainguyen752004&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=TuanViDev&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanViDev&layout=compact&theme=radical" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://streak-stats.demolab.com?user=Hainguyen752004&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=TuanViDev&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hainguyen752004&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=TuanViDev&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 💬 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hainguyen752004&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TuanViDev&layout=compact&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hainguyen752004)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TuanViDev)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🧠 Tools & Frameworks
 
@@ -105,7 +105,7 @@ I am always looking for opportunities to **learn** and **grow**, and I am eager 
   - **Role**: Leader – Backend AI and Presentation  
   - Built an **automatic checkout system** using **AI** and **computer vision**.  
   - The system was triggered when users left the store.  
-  - GitHub Repository: [Link to project](https://github.com/Hainguyen752004/competition-vietfuture)
+  - GitHub Repository: [Link to project](https://github.com/TuanViDev/competition-vietfuture)
 
 - **Reached the Semi-finals** – **Ra Khoi 2023** organized by **Van Lang University**  
   *May 2023 – Jun 2023*  
