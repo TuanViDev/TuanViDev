@@ -1,7 +1,7 @@
 
 # Vũ Nguyễn Tuấn Vĩ
 
-## Software Engineering Intern | Web Development Enthusiast
+## Software Engineering | Web Development Enthusiast
 
 ## 👋 About Me
 
