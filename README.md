@@ -95,7 +95,7 @@ I am always eager to **learn**, **adapt**, and bring my **responsibility** and *
   - Planned and managed project development.  
   - Designed user interface using **ShadcnUI**, **Tailwind CSS**, and built **RESTful APIs** with **NextJS**.  
   - Integrated **PayOS** for automated online payments.  
-  - GitHub Repository: [Link to project](https://github.com/TuanViDev)
+  - GitHub Repository: [Link to project](https://github.com/TuanViDev/web-app-vibe-music)
 
 - **GK Solution JSC** – Software Development & Automation Intern  
   *Mar 2023 – Jan 2025*  
@@ -109,7 +109,7 @@ I am always eager to **learn**, **adapt**, and bring my **responsibility** and *
   - Designed user interface with **HTML/CSS**, **Bootstrap**.  
   - Developed backend using **Java Spring Boot**, creating APIs for frontend-data interaction.  
   - Integrated **PayOS** for automated online payments.  
-  - GitHub Repository: [Link to project](https://github.com/TuanViDev)
+  - GitHub Repository: [Link to project](https://github.com/TuanViDev/jacloth-springboot)
 
 - **Tập Làm Văn Phòng** – Blog Website  
   *Jul 2023 – Oct 2023*  
@@ -117,7 +117,6 @@ I am always eager to **learn**, **adapt**, and bring my **responsibility** and *
   - Planned project development.  
   - Designed user interface using **HTML**, **CSS**, and **Bootstrap**.  
   - Built and managed logic with **PHP**.  
-  - GitHub Repository: [Link to project](https://github.com/TuanViDev)
 
 - **Telus International** – Internet Assessor  
   *Aug 2022 – Jan 2023*  
