@@ -1,11 +1,11 @@
 
 # Vũ Nguyễn Tuấn Vĩ
 
-## Software Engineering | Web Development Enthusiast
+## Software Engineer | Web Developer
 
 ## 👋 About Me
 
-Hello! I am **Tuấn Vĩ**, a **Software Engineering** student at **Van Lang University** with a GPA of **3.1/4.0**. I am passionate about building high-quality software solutions and gaining hands-on experience through **internships** and **real-world projects**.  
+Hello! I am **Tuấn Vĩ**, a **Software Engineer**. I am passionate about building high-quality software solutions and gaining hands-on experience **real-world projects**.  
 
 My **short-term goal** is to accumulate practical experience through internships and projects, enhancing my **programming**, **teamwork**, and **problem-solving** skills. In the **long term**, I aim to become a professional **Software Engineer**, contributing to the development of innovative and impactful software products.  
 
